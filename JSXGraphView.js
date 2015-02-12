@@ -13,7 +13,7 @@ define([
 ], function ($, jqueryui, _, Backbone, JSXGraph, JSXGraphTpl, JSXGraphPreviewTpl) {
     var _this, currentX, currentY;
     "use strict";
-    var JSXGraphView = Backbone.View.extend({
+    var  = Backbone.View.extend({
 
         /**
          * Render the question considering the aspects like question type, mode of operation.
